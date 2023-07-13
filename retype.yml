@@ -1,0 +1,17 @@
+input: .
+output: .retype
+locale: ja
+url: 
+branding:
+  title: Pokkuma 
+  label: Document
+  logo: icon.png
+links:
+- text: Discord
+  link: https://discord.gg/pokkuma
+- text: Twitter
+  link: https://twitter.com/pokkumaserver
+- text: YouTube
+  link: https://www.youtube.com/@pokkuma_yt
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
