@@ -14,4 +14,4 @@ links:
 - text: YouTube
   link: https://www.youtube.com/@pokkuma_yt
 footer:
-  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+  copyright: "&copy; Copyright {{ year }} – [PokkumaServer](https://discord.gg/pokkuma) – All rights reserved"
