@@ -1,7 +1,7 @@
 ---
 title: ようこそ
 icon: home
-date: 2023-07-29
+date: 2023-08-08
 description: PokkumaServerのドキュメント。
 order: 100
 ---
