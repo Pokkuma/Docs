@@ -5,7 +5,7 @@ url:
 branding:
   title: Pokkuma 
   label: Document
-  logo: pokkuma.png
+  logo: static/pokkuma.png
 links:
 - text: Discord
   link: https://discord.gg/pokkuma
