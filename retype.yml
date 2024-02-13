@@ -3,8 +3,8 @@ output: .retype
 locale: ja
 url: 
 branding:
-  title: Pokkuma 
-  label: Document
+  title: ぽっくま鯖
+  label: ドキュメント
   logo: static/pokkuma.png
 links:
 - text: Discord
